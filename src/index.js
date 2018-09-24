@@ -24,8 +24,6 @@ module.exports = function solveEquation(equation) {
 
     newArr.sort(compareFunc);
     return newArr;
-  } else {
-    return newArr;
   }
 
 }
